@@ -22,7 +22,7 @@ $(function() {
 				stecker: 400,	//ステッカー 550
 				cup: 50,	//マグカップ 20
                 mufflertowel: 40,	//マフラータオル 20
-                dorayaki: 60,	//どら焼き 50
+                dorayaki: 500,	//どら焼き 50
                 bag: 50,	//バッグ
                 choco: 45,	//カスタムチョコレート 50
                 badge: 100	//缶バッジ 50
